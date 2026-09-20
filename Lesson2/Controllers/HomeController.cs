@@ -18,6 +18,6 @@ public class HomeController : Controller
 
     public IActionResult Contact()
     {
-        return Content("your-email@gmail.com");
+        return Content("lexuanbao258@gmail.com");
     }
 }
